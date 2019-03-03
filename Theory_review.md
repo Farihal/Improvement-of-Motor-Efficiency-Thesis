@@ -1,4 +1,4 @@
-# Targets in Thesis so far
+# Theory Reviews in Thesis 
 - [x] Read about fundamental working principle of AC Motor
 - [ ] Read about fundamental working principle of DC Motor
 - [ ] Watch [Cogging Crawling effect in a 3-Phase Induction motor](https://youtu.be/pYa5VOaQHyo)
