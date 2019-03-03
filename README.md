@@ -1,2 +1,4 @@
-# Improvement-of-Motor-Efficiency-Thesis
-I built this repository to track my M.Sc. Thesis Progress on Improvement of Motor Efficiency
+# Targets in Thesis so far
+[x] Read about fundamental working principle of AC Motor
+[] Read about fundamental working principle of DC Motor
+
