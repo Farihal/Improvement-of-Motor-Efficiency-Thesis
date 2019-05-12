@@ -1,4 +1,4 @@
-# Theory Reviews in Thesis 
+# Theory Review
 - [x] Read about fundamental working principle of AC Motor
 - [x] Read about fundamental working principle of DC Motor
 
