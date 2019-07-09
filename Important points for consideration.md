@@ -13,7 +13,7 @@ Perhaps the best sizing parameter for IMs & RSMs is `TRV`
 Brushless or PMSM machines tend to have higher poles (8 or more)
 The best sizing parameter for PMSMs is probably `air gaps stress`.
 
-`TRV = Torque / Rotor Volume (active).` TRV is related to air-gap shear stress.
+`TRV = Torque / Rotor Volume (active).` TRV is related to air-gap shear stress, &#963;.
 
 ##  Rotor OD & Stator OD
 Most all new design tasks of new machines begin with a known or
