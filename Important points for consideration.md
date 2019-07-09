@@ -26,4 +26,4 @@ number of poles from chart below.
 | R/S (%) 	| 50 	| 53 	| 56 	| 60 	| 65 	| 70 	|
 
 ##  Suggested TRV & gap stress sizing guidelines
-
+![Sizing Guidelines](thesispic 1.PNG "Sizing Guidelines")
