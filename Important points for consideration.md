@@ -1,6 +1,3 @@
-##  Primary Focus
-Focus on designing electrical machines to produce torque efficiently rather
-than focusing on producing power
 
 ##  Sizing of electrical machines using torque/rotor volume & gap stress
 Machines are primarily sized for rated torque capability (not power).
