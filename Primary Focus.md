@@ -12,4 +12,6 @@ In Bangladesh , Diesel Engines are used in diverse applications such as- Nosimon
 - The diesel engines used in the boats pollute the water bodies along with the surrounding environment.
 
 ## Application of Electric motor in boats
+[1] In Italy , two 8 KW high efficient PMSM motor were equipped to a tourist boat that ran on solar power. The boat was 14 m x 5.50 m with a maximum speed of 8 knots and a cruising range of 6 hrs.
+[2] In Bangladesh , 
 
