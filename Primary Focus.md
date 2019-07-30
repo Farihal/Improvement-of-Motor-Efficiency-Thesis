@@ -24,9 +24,11 @@ In Bangladesh , Diesel Engines are used in diverse applications such as- Nosimon
 - A high starting torque
 - Air gap is considered `0.7 mm` , a practical value.
 - Slot factor is `36% - 40%`, practical consideration.
+- Wire can be of `Cu` or `Al`.
 - Current density in the wires is to be kept within `5A/sq.mm`.
 - High power-to-weight ratio
-- High efficiency (>90%) and high power factor
+- High efficiency (`>90%`) and high power factor
 - Flux distribution in different parts of the machine to be kept within limit.
-- Discussion on Torque constant, K<sub>t</sub> and Voltage constant, K<sub>e</sub>
+- Discussion on Torque constant, `K<sub>t</sub>` and Voltage constant, `K<sub>e</sub>`
+I will also present a comparative analysis of the rotor topologies which are widely used for EV (Electric Vehicle) applications- standard , V type, V type double layer and Delta shape.
 
