@@ -18,7 +18,7 @@ In Bangladesh , Diesel Engines are used in diverse applications such as- Nosimon
 - [x] In Bangladesh , a 48V , 500 W BLDC motor has been used to drive a 6.5mx2m solar boat capable of carrying 1200 Kg load for 8 hrs. For this load , the theoretically calculated power requirement is 380 W. The approximate speed of the boat is measured at 3knots, which is capable of covering 60 Km distance in one full charge. Rated speed of the motor is 2800 rpm , rated torque 1.7 Nm and efficiency 75%. In field test , the motor used 450-455 W and achieved 950-970 rpm speed.
 
 # Thesis Objective
-- To design an electric motor for a diesel-electric hybrid drive / standalone electric drive in applications such as Nosimon, Pump, Sugarcane Juicer, Small Boat, Cultivation , Troller, Saw Mill, Rice Mill, Wheat Mill, Brick Crusher, Rice Mill etc
+- To design a PM DC electric motor for a diesel-electric hybrid drive / standalone electric drive in applications such as Nosimon, Pump, Sugarcane Juicer, Small Boat, Cultivation , Troller, Saw Mill, Rice Mill, Wheat Mill, Brick Crusher, Rice Mill etc
 - Speed of the motor should be  `2000-3000` rpm.
 - The shaft torque must be constant over a large speed range.
 - A high starting torque
