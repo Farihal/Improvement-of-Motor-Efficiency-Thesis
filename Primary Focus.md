@@ -13,7 +13,9 @@ In Bangladesh , Diesel Engines are used in diverse applications such as- Nosimon
 
 ## Application of Electric motor in boats
 - [x] In Italy , two 8 KW high efficient PMSM motor were equipped to a tourist boat that ran on solar power. The boat was 14 m x 5.50 m with a maximum speed of 8 knots and a cruising range of 6 hrs.
-- [x] In Bangladesh , a 48V , 500 W BLDC motor has been used to drive a 6.5mx2m solar boat capable of carrying 1200 Kg load for 8 hrs. The approximate speed of the boat is measured at 3knots, which is capable of covering 60 Km distance in one full charge. Rated speed of the motor is 2800 rpm , rated torque 1.7 Nm and efficiency 75%.
+- [x] In Malaysia, a 48V 9 KW BLDC has been used to run a small catamaran. The efficiency of the motor is 93% and operates for 12 hours a day.
+- [x] In Thailand , a 3-phase 2.2 KW squirrel cage induction motor (IM) was used in the outboard electric propulsion system of a mono hull boat. The maximum speed the boat could rich was 5 knots within 1 kilometer distance. 
+- [x] In Bangladesh , a 48V , 500 W BLDC motor has been used to drive a 6.5mx2m solar boat capable of carrying 1200 Kg load for 8 hrs. For this load , the theoretically calculated power requirement is 380 W. The approximate speed of the boat is measured at 3knots, which is capable of covering 60 Km distance in one full charge. Rated speed of the motor is 2800 rpm , rated torque 1.7 Nm and efficiency 75%. In field test , the motor used 450-455 W and achieved 950-970 rpm speed.
 
 # Thesis Objective
 
