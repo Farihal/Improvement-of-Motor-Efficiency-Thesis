@@ -31,5 +31,5 @@ In Bangladesh , Diesel Engines are used in diverse applications such as- Nosimon
 - Flux distribution in different parts of the machine to be kept within limit.
 - Discussion on Torque constant, `K<sub>t</sub>` and Voltage constant, `K<sub>e</sub>`
 
-I will also present a comparative analysis of the rotor topologies which are widely used for EV (Electric Vehicle) applications- `Standard , V type, V type double layer and Delta shape`.
+I will also present a comparative analysis of the rotor topologies which are widely used for EV (Electric Vehicle) applications- `Standard` , `V type`, `V type double layer` and `Delta shape`.
 
