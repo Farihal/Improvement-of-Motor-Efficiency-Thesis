@@ -19,5 +19,12 @@ In Bangladesh , Diesel Engines are used in diverse applications such as- Nosimon
 
 # Thesis Objective
 - To design an electric motor for a diesel-electric hybrid drive / standalone electric drive in applications such as Nosimon, Pump, Sugarcane Juicer, Small Boat, Cultivation , Troller, Saw Mill, Rice Mill, Wheat Mill, Brick Crusher, Rice Mill etc
-- 
+- Speed of the motor should be  `2000-3000` rpm.
+- The shaft torque must be constant over a large speed range.
+- A high starting torque
+- Air gap is considered `0.7 mm` , a practical value.
+- Slot factor is `36% - 40%`, practical consideration.
+- Current density in the wires is to be kept within `5A/sq.mm`.
+- High power-to-weight ratio
+- Discussion on Torque constant, K<sub>t</sub> and Voltage constant, K<sub>e</sub>
 
