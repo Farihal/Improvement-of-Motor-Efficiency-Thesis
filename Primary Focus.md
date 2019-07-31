@@ -28,6 +28,7 @@ In Bangladesh , Diesel Engines are used in diverse applications such as- Nosimon
 - Current density in the wires is to be kept within `5A/sq.mm`.
 - High power-to-weight ratio
 - High efficiency (`>90%`) and high power factor
+- Magnet dimension and weight of magnetic materials
 - Flux distribution in different parts of the machine to be kept within limit.
 - Vibration analysis
 - Discussion on Torque constant, `K<sub>t</sub>` and Voltage constant, `K<sub>e</sub>`
